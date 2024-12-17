@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **Python, HTML + CSS**
+- 🌱 I’m currently learning **Python, React Native JS, HTML + CSS, PostgreSQL**
 - 📄 Know about my experiences [GitHub](https://github.com/mayorov-vladislav)
 - 📫 Reach me by [Telegram](https://t.me/vladislav232425), [Email](mailto:maiorovvladislav9999@gmail.com)
 - 🌍 I speak English, Russian and Ukrainian
