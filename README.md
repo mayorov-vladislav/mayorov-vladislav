@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://t.me/vladislav232425">
+  <a href="https://t.me/vlad22321>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning **Python, React Native JS, HTML + CSS, PostgreSQL**
 - 📄 Know about my experiences [GitHub](https://github.com/mayorov-vladislav)
-- 📫 Reach me by [Telegram](https://t.me/vladislav232425), [Email](mailto:maiorovvladislav9999@gmail.com)
+- 📫 Reach me by [Telegram](https://t.me/vlad22321), [Email](mailto:maiorovvladislav9999@gmail.com)
 - 🌍 I speak English, Russian and Ukrainian
 
 ---
